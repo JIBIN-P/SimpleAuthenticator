@@ -1,2 +1,2 @@
-# SimpleAuthenticator-MCC-exp2-
+# SimpleAuthenticator
 Simple authentication app implemented in android
